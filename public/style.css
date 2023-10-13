@@ -7,6 +7,12 @@ html, body {
 font-family: 'Vesper Libre', serif;
 }
 
+.container {
+  display: grid;
+  align-items: center;
+  background-image: linear-gradient(rgba(17, 13, 13, 0.346), rgb(0, 0, 255), rgb(216, 216, 216));
+}
+
 h1 {
   font-size: 3rem;
 }
