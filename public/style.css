@@ -11,14 +11,16 @@ font-family: 'Vesper Libre', serif;
 
 .container {
   display: grid;
-  align-items: center;
+  text-align: center;
   background-image: linear-gradient(rgba(17, 13, 13, 0.346), rgb(0, 0, 255), rgb(216, 216, 216));
 }
 
 h1 {
   font-size: 3rem;
+  color: rgb(12, 178, 178);
 }
 
 p {
   font-size: 1.5rem;
+   color: rgb(224, 210, 182);
 }
